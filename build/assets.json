@@ -1,0 +1,14 @@
+{
+  "client": {
+    "js": [
+      "http://localhost:3004/static/js/client.js"
+    ],
+    "map": [
+      "http://localhost:3004/static/js/client.js.map"
+    ],
+    "chunks": [
+      "client"
+    ]
+  },
+  "noentry": {}
+}
