@@ -6,7 +6,6 @@
 git checkout react-17 # or react-18
 npm install
 npm run build
-cd build
 node server.js
 ```
 
