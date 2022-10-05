@@ -6,7 +6,7 @@
 git checkout react-17 # or react-18
 npm install
 npm run build
-node server.js
+node build/server.js
 ```
 
 2. Open `localhost:3000` in Chrome. Open the Chrome DevTools, go to the Network tab, and set the speed to "Slow 3G".
