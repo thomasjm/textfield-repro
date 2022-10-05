@@ -10,7 +10,7 @@ const App = () => {
       <h2>Login</h2>
 
       <p>
-        value is: {value}
+        value is: {JSON.stringify(value)}
       </p>
 
       <input value={value}
